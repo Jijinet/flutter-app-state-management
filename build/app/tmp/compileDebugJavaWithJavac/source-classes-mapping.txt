@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/machlou/dwm_flutter_state_management/BuildConfig.java
+ com.machlou.dwm_flutter_state_management.BuildConfig
